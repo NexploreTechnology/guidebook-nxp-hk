@@ -3,6 +3,7 @@
     "allctx",
     "autohide",
     "azurecr",
+    "Balsamiq",
     "Behavioural",
     "behaviours",
     "brotli",
@@ -70,6 +71,7 @@
     "vimtutor",
     "vmss",
     "webp",
+    "wireframing",
     "zoxide"
   ],
   "editor.codeActionsOnSave": {
